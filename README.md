@@ -1,4 +1,6 @@
 <div align="center">
+	<h1>NGL-Spammer</h1>
+	<br><br>
 	<p>
 		NGL-Spammer is a tool to sent brute spam attacks on ngl user applications by only using the ngl username.<br>
 		(This tool was built for learning and experience penetration testing)
@@ -12,7 +14,7 @@
 </div>
     <br><br>
     <h3 align="center">Use this website to sent spam attacks:</h3>
-    <a href="https://ngl-spammer.asada.my.id/" align="center">ngl-spammer.asada.my.id</a>
+    <p align="center">https://ngl-spammer.asada.my.id/</p>
 
 <br><br>
 
